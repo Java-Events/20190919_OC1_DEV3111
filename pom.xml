@@ -22,7 +22,7 @@
   <modules>
     <module>01_components</module>
     <module>02_components-test</module>
-<!--    <module>03_demoapp</module>-->
+    <module>03_demoapp</module>
   </modules>
 
   <parent>

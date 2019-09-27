@@ -15,6 +15,10 @@
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>org.rapidpm.event</groupId>
+      <artifactId>2019-oc1-dev3111-components</artifactId>
+    </dependency>
     <!--For Core Vaadin Components-->
     <dependency>
       <groupId>com.vaadin</groupId>
@@ -24,10 +28,6 @@
     <dependency>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-button-flow</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.vaadin</groupId>
-      <artifactId>vaadin-combo-box-flow</artifactId>
     </dependency>
     <dependency>
       <groupId>com.vaadin</groupId>

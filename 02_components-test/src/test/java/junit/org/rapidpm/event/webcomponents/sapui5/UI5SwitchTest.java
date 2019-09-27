@@ -40,6 +40,7 @@ public class UI5SwitchTest
   }
 
   @Test
+  @Disabled
   void test001(UI5SwitchPO po) {
     final String url = "http://" + po.getHostIpAddress() + ":" + getProperty(CORE_UI_SERVER_PORT) + "/";
     logger().info("URL : " + url + NAV);
