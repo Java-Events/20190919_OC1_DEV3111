@@ -12,7 +12,7 @@
 A nano project to start a Vaadin project. Perfect for Micro-UIs packed as fat jar in a docker image.
 
 
-## SAP Componets
+## SAP Components
 [Component Playground](https://sap.github.io/ui5-webcomponents/playground/)
 * [Icons](https://openui5.hana.ondemand.com/test-resources/sap/m/demokit/iconExplorer/webapp/index.html#/overview/SAP-icons/?tab=grid&icon=activate)
 * [Timeline](https://github.com/SAP/ui5-webcomponents/blob/master/packages/main/src/Timeline.js)
